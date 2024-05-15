@@ -25,7 +25,7 @@ To install and run the Bistro Server locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/YOUR_USERNAME/Bistro-server.git
+   git clone https://github.com/YosefElsersy/Bistro-server.git
    ```
 
 2. Navigate to the project directory:
